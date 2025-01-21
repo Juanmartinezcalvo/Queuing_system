@@ -12,13 +12,13 @@ Airport Simulation Program
 
 This program simulates the operations of an airport, focusing on various service counters such as:
 
-Check-in
+-Check-in
 
-Passport control
+-Passport control
 
-Security checks
+-Security checks
 
-Boarding
+-Boarding
 
 The simulation uses variables to define the number of counters available for each service. The optimal number of counters for each service has been determined using the Monte Carlo method, which is detailed in a separate file included in this repository.
 
