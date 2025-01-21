@@ -6,7 +6,7 @@ This program simulates the reliability of a two-component system, tracking failu
 
 This program simulates the spanish tax agency, a two-stage queuing system, modeling customer arrivals, their passage through two sequential service stages, and their exit from the system. It uses random distributions for inter-arrival times and service durations, calculating the accumulated waiting time at each stage. The simulation runs until a defined maximum time, displaying arrival and service completion events.
 
-3.- Airport_simulation.R and monrecarlo.R
+3.- Airport_simulation.R and montecarlo.R
 
 Airport Simulation Program
 
